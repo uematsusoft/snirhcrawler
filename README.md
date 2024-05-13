@@ -1,5 +1,7 @@
 # :sweat_drops: SNIRH crawler
 
+Forked from [franciscobmacedo/snirhcrawler](https://github.com/franciscobmacedo/snirhcrawler.git).
+
 Crawler to fetch data from SNIRH
 
 ## What is SNIRH?
@@ -16,7 +18,7 @@ Crawler to fetch data from SNIRH
 _WINDOWS_
 
 ```bash
-git clone https://github.com/franciscobmacedo/snirhcrawler
+git clone https://github.com/uematsusoft/snirhcrawler.git
 cd  snirhcrawler
 py -m venv venv
 .\venv\scripts\activate
@@ -26,7 +28,7 @@ pip install -r requirements.txt # or requirements/dev.txt for development
 _MAC/LINUX_
 
 ```bash
-git clone https://github.com/franciscobmacedo/snirhcrawler
+git clone https://github.com/uematsusoft/snirhcrawler.git
 cd  snirhcrawler
 python3 -m venv venv
 source venv/bin/activate
